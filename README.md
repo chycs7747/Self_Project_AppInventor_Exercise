@@ -1,6 +1,8 @@
 # Self_Project_AppInventor_ExerciseCond  
 
-This project was created to practice conditions.
+This project was created to practice conditions.  
+Block codes are in .docx files
+
 
 #### [PassOrFail Project]
 - 2019/4/10
