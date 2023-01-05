@@ -1,4 +1,6 @@
-# Self_Project_AppInventor_Exercise
+# Self_Project_AppInventor_ExerciseCond  
+
+This project was created to practice conditions.
 
 #### [PassOrFail Project]
 - 2019/4/10
